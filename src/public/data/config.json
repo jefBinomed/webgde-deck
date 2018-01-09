@@ -220,6 +220,11 @@
       "name": "Jeroen Mols",
       "href": "https://jeroenmols.com/",
       "feedUrl": "https://jeroenmols.com/atom.xml"
+    },
+    {
+      "name": "Danny Preussler",
+      "href": "https://medium.com/@dpreussler",
+      "feedUrl": "https://medium.com/feed/@dpreussler"
     }
   ]
 }
